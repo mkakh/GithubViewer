@@ -1,0 +1,15 @@
+{
+  "name": "GithubViewer",
+  "version": "1.0.0",
+  "description": "A Electron github viewer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/mkakh/GithubViewer",
+  "author": "mkakh",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
